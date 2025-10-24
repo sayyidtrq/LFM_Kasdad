@@ -1,0 +1,20 @@
+# Data
+*.csv
+*.xlsx
+*.json
+*.zip
+
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Colab metadata
+*.ipynb_provenance
