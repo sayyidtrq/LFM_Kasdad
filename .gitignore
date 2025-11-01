@@ -1,0 +1,5 @@
+klasifikasi/events_train.csv
+regresi/events_train.csv
+klasifikasi/position_guide.csv
+regresi/*.csv
+klasifikasi/*.csv
